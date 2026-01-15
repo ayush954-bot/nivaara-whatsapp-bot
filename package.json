@@ -1,0 +1,14 @@
+{
+  "name": "nivaara-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Cloud API bot for Nivaara Realty",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.3"
+  }
+}
